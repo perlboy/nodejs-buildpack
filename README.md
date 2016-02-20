@@ -12,7 +12,7 @@ Additional documentation can be found at the [CloudFoundry.org](http://docs.clou
 This buildpack only adds the following Gem dependencies:
 - Compass
 - SASS
-
+- Bundler
 
 ## Usage
 
